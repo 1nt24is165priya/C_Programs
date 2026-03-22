@@ -6,5 +6,5 @@ This repository contains my practice programs in C.
 #Programs:
 - Time Complexity calculation
 - Time Complexity of selection sort O(n^2)
-- Spacae Complexity of selection sort O(1)
+- Space Complexity of selection sort O(1)
   
