@@ -51,7 +51,7 @@ int main(){
         printf("%d\t", arr[i]);
     }
 
-    printf("\n");
+    printf("\n")
 
     double time_taken;
     time_taken = (end.tv_sec-start.tv_sec) + (end.tv_usec - start.tv_usec)/1000000.0;
