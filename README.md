@@ -19,3 +19,17 @@ This repository contains my practice programs in C.
 -Code, Time and Space complexity calculation
 -TC(Best,Avg,Worst) = O(nlogn)
 -Space Complexity = O(n) [for tempo array(used in merging)]
+
+### 4.Quick Sort
+-Code ,Time and space complexity calculation
+-TC
+- Best Case:
+Pivot divides array evenly → O(nlog n)
+- Average Case:
+Random pivot distribution → O(nlog n)
+- Worst Case:
+Pivot always smallest/largest (already sorted array) → O(n^2)
+
+-Space Complexity
+- Space Complexity: O(log n) due to recursion stack (in‑place sorting, no extra arrays needed).
+
